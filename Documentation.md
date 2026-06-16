@@ -93,8 +93,8 @@ Game:
 Attributes | Type | Attribute description |
 |----------|------|-----------------------|
 | deck     | Integer | Stores a deck of cards
-| player 1 | String | First player
-| player 2 | String | Second player
+| player_1 | String | First player
+| player_2 | String | Second player
 | round_number| Integer | The cuurent round number the game is on
 
 Methods | Description of method |
@@ -106,4 +106,7 @@ Methods | Description of method |
 | end_game() | Finish the game
 
 Role of game : Game is the parent class. It has the ability to start the game, play rounds, determine winners of the round, reset and move onto the next round and end the game. 
+
+
+
 
