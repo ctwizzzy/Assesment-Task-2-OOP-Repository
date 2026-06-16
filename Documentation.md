@@ -53,9 +53,11 @@ Attributes | Type | Attribute description |
 |----------|------|-----------------------|
 | car      | String | contains all the attributes of the car
 
+
 Methods | Descrpition of method|
 |-------|---------------------|
 | hold_attributes()| Holds the data of different subclasses
+| get_car() | Returns the car object back
 
 Role of card: the role of the card is to hold the data of different subcalsses. For example, it does this with car, holding all 6 attributes and 2 methods of car. 
 
