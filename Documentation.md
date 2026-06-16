@@ -80,6 +80,7 @@ Attributes | Type | Attribute description |
 | player_name| String | Name of the player
 | score| Integer| Amount of rounds won by a player
 
+
 Methods | Description of method |
 |-------|-----------------------|
 | draw_cards()| Draw cards from the deck
