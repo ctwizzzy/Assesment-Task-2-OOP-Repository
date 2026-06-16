@@ -43,9 +43,10 @@ Attributes | Type | Attribute description|
 Methods | Description of method|
 |-------|----------------------|
 | drive() | The ability for the car to drive
-| safety_features() | Method for the car to have safety features
+| battle() | Battle other cars
 
-Role of car: Car is the data that is on the cards. Car holds 6 attributes amd 2 methods. 
+
+Role of car: Car is the data that is on the cards. Car holds 6 attributes and 2 methods. 
 
 Card: 
 
