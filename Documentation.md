@@ -112,5 +112,17 @@ Methods | Description of method |
 Role of game : Game is the parent class. It has the ability to start the game, play rounds, determine winners of the round, reset and move onto the next round and end the game. 
 
 
+## <b> Part D </b>
 
+This is the explanantion on how the game is to played: 
+
+1. This is a 1v1 game. Each player is given a budget of $100M AUD to spend on a set of 30 cards. Cars with better attributes are more expensive so players should spend wisely. 
+
+2. Both players will decide on an attribute to battle on. If they cannot agree on an attribute to battle on, they can flip a coin, heads or tails to decide which attribute to battle on. 
+
+3. Each players will be given a choice on the card they will use to battle. At once, both players will reveal their cards and whoever has the higher or 'better' attribute wins the round and both cards are discarded from the deck.
+
+4. In a draw, no one wins the round, and both cards are discarded from the deck. 
+
+5. The game ends after there are no more cards remaining in the deck. Players will then count up how many rounds they won and whoever won the most rounds wins the game. 
 
