@@ -133,6 +133,22 @@ Unfair Advantage: The player who chooses the attribute to battle on could have a
 
 Proposed solution: Both players can alternate on the attribute they battle on each round, or can use the coin to randomly decide who chooses the attribute. This allows for both players to have higher chances of winning during each round. 
 
+## <b> Part E </b>
+
+The design of what the cards look like is attached in another file. 
+
+Style Card Design: 
+
+Top: Name of the car, model, year, price
+
+Image section: Includes Image of the car
+
+Mid section: Includes attributes such as acceleration, top speed and horsepower. 
+
+Bottom Section: Includes a fun fact about the car. 
+
+I placed name at the top as I felt it is the best way to grab the users attention on the name of the car. 
+
 ## <b> Part F </b>
 
 1. <u> Individual Impact </u>
@@ -151,4 +167,3 @@ Proposed solution: Both players can alternate on the attribute they battle on ea
 
     Many legal issues could arise from this game such as vehicle images or logos being written without permission. There are also chances that problems about information accuracy may arise. As the designer, it is my responsibility to make sure I am getting my attribute information from reliable sources. Any content which needs to be used from carsales.com.au must be used after being granted permission by them to use it. To ensure the system does not mislead users, it should display accurate information used form trusted and relaible sources. It should also be made clear that the game is for entertainment purposes only and that users must not use the information in the game as advice in vehicle purchasing. 
 
-    
