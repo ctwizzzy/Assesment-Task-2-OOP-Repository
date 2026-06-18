@@ -159,15 +159,12 @@ Attribute: Top speed
 
 Card 1: 2011 Lamborghini Aventador
 
+VS
+
 Card 2: 2021 Audi R8
 
 Compare
 
-Card 1 Top speed: 350 km/h
-
-Card 2 Top speed: 331 km/h 
-
-Card 1 wins!
 
 ## <b> Part F </b>
 
