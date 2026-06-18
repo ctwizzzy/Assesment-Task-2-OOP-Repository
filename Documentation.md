@@ -147,7 +147,27 @@ Mid section: Includes attributes such as acceleration, top speed and horsepower.
 
 Bottom Section: Includes a fun fact about the car. 
 
-I placed name at the top as I felt it is the best way to grab the users attention on the name of the car. 
+I placed name at the top as I felt top is the first thing someone reads from so it made sense to put all of those attributes such as name, model, year, price at the top. Image section is the biggest section so the image of the car should go in their. This makes sure the image is as big as possible and gives a visual representation of what the car looks like, grabbing the users attention. The midsection has all the stats and attributes as it is the main ifno that matters the most. The bottom has a func fact to add a bit more information and aesthetic about the car. 
+
+Game UI Sketch:
+Car Card comparison game|
+|-----------------------|
+
+Start Game: 
+
+Attribute: Top speed
+
+Card 1: 2011 Lamborghini Aventador
+
+Card 2: 2021 Audi R8
+
+Compare
+
+Card 1 Top speed: 350 km/h
+
+Card 2 Top speed: 331 km/h 
+
+Card 1 wins!
 
 ## <b> Part F </b>
 
