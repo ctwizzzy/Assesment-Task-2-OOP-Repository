@@ -8,19 +8,19 @@
 
 - Price
 
-  I chose price as it is one of the most importanrt attributes to the game. Each card has a certain price and players are given a budget to spend on cards. The better the car is, the higher it's price will be so players should pick wisely when to save or spend money.
+  I chose price as it is a good description of the cards and their value. Price is simply a description and not a playable attribute. Price is the 6th most important attribute. 
 - Acceleration (0 to 100 km/h)
 
-  Acceleration is an attribute that the card will have. It measures how quickly a car can go from from 0 to 100 km/h. Acceleration is the second most important attribute in the game and gives 40 points if won. I chose acceleration as it is a playable attribute about performance of the car and is important to gameplay. 
+  Acceleration is an attribute that the card will have. It measures how quickly a car can go from from 0 to 100 km/h. Acceleration is the 2nd most important attribute in the game. I chose acceleration as it is a playable attribute about performance of the car and is important to gameplay. 
 - Top Speed
 
   Top speed is another attribute the card will have. It measures the absolute top speed the car can go (km/h). Top speed is the most important attribute in the game and gives 50 points if won. I chose top speed as it is the most important attribute in the game as it tells us the absolute fastest speed the car can go and is a playable attribute, making it important to gameplay.
 - Model
   
-  Model shows what model from the specific brand the car is. For example, the brand is Lamborginhi and the model is Aventador. Model is not a playable attribute with which players will battle, but simly an attribute to describe the car. I chose model as it is an important description of the car as it tells us the specific model the car is. 
+  Model shows what model from the specific brand the car is. For example, the brand is Lamborginhi and the model is Aventador. Model is not a playable attribute with which players will battle, but simly an attribute to describe the car. I chose model as it is an important description of the car as it tells us the specific model the car is. Model is the 4th most important attribute. 
 - Make
   
-  Make is the brand of the car that built the vehicle. For example, Toyota, Subaru, Lamborginhi etc. Like model, make is not a playable attribute and is simply a description of the car. I chose make as an attribute as it tells us what brand the car is from, a very important detail when describing cars. 
+  Make is the brand of the car that built the vehicle. For example, Toyota, Subaru, Lamborginhi etc. Like model, make is not a playable attribute and is simply a description of the car. I chose make as an attribute as it tells us what brand the car is from, a very important detail when describing cars. Make is the 5th most important attribute. 
 
 - Power 
 
@@ -116,7 +116,8 @@ Role of game : Game is the parent class. It has the ability to start the game, p
 
 This is the explanantion on how the game is to played: 
 
-1. This is a 1v1 game. Each player is given a budget of $100M AUD to spend on a set of 30 cards. Cars with better attributes are more expensive so players should spend wisely. 
+1. This is a 1v1 game. Each player is given a set of 30 cards to battle on attributes with. 
+
 
 2. Both players will decide on an attribute to battle on. If they cannot agree on an attribute to battle on, they can flip a coin, heads or tails to decide which attribute to battle on. 
 
@@ -126,3 +127,28 @@ This is the explanantion on how the game is to played:
 
 5. The game ends after there are no more cards remaining in the deck. Players will then count up how many rounds they won and whoever won the most rounds wins the game. 
 
+Explanation of game balance: This keeps the game balanced as each player is given equal chances on the attribute they wish to battle on and they are allowed to choose the cards they would like to use. 
+
+Unfair Advantage: The player who chooses the attribute to battle on could have an unfair advantage as they can select an attribute where their car is the strongest. This gives them higher control on winning the round. 
+
+Proposed solution: Both players can alternate on the attribute they battle on each round, or can use the coin to randomly decide who chooses the attribute. This allows for both players to have higher chances of winning during each round. 
+
+## <b> Part F </b>
+
+1. <u> Individual Impact </u>
+
+    The game may influence the decision making of players when choosing cards. Players may prioritise cars with the acceleration, top speed, and horsepower as these are the attributes which win rounds. This however can affect how the user views cars in real life as this can influence them to choose cars based on performance rather than practicality and environment. As the designer, it is my responsibility to present accurate information and attributes must be based on reliable data. 
+
+2. <u> Social Impact </u>
+
+    This game can place social stereotypoes as it can potray super cars and the more expensive cars as more desirable. The game may also be biased towards sports cars and luxury cars than family cars, electric cars, SUVs etc due to them performing beter in terms of attributes. To make it more inclusive and fair, the game will include a wide range of cars such as sports, electric, SUV, family, luxury etc. This ensures a wide range of cars suitable to all players. The game will also be designed so that players can win mostly by strategy. 
+
+3. <u> Environmental Impact </u> 
+
+    Due to the game mainly rewarding high speed sports cars becuase of their attributes, players may focus on speed and power while paying less attention to environmental impacts. This could cause players in real life to favour cars with higher fuel consumption and with greater carbon emissions. The current attribute selection of the game ignores environmental impacts, focusing more on performance. To change this and encourage environmental sustainability, the game could have attributes such as electric driving range, carbon emissions and environmental impact. These attributes would reward users for being environmentally aware and encourage users to prioritise cars with a better environmental impact. 
+
+4. <u> Legal Considerations </u>
+
+    Many legal issues could arise from this game such as vehicle images or logos being written without permission. There are also chances that problems about information accuracy may arise. As the designer, it is my responsibility to make sure I am getting my attribute information from reliable sources. Any content which needs to be used from carsales.com.au must be used after being granted permission by them to use it. To ensure the system does not mislead users, it should display accurate information used form trusted and relaible sources. It should also be made clear that the game is for entertainment purposes only and that users must not use the information in the game as advice in vehicle purchasing. 
+
+    
