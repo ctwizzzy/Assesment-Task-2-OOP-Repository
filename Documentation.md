@@ -109,7 +109,11 @@ Methods | Description of method |
 | reset() | Finish the round and continue onto the next round
 | end_game() | Finish the game
 
-Role of game : Game is the parent class. It has the ability to start the game, play rounds, determine winners of the round, reset and move onto the next round and end the game. 
+Role of game : Game is the parent class. It has the ability to start the game, play rounds, determine winners of the round, reset and move onto the next round and end the game.
+
+## <b> Part C </b>
+
+Part C is a UML class diagram which is in another screenshotted png file.
 
 
 ## <b> Part D </b>
